@@ -1,5 +1,3 @@
-# Getting Started with GitHub Copilot
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/nos-logo-dark.png">
@@ -7,6 +5,8 @@
     <img alt="NOS Logo" src="images/nos-logo-light.png" width="200">
   </picture>
 </p>
+
+# Getting Started with GitHub Copilot
 
 _Get started using GitHub Copilot in less than an hour._
 
