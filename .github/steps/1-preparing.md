@@ -36,13 +36,12 @@ For today's coding though, we will practice with VS Code in a pre-configured dev
 Let's start up our development environment, use copilot to learn a bit about the project, and then give it a test run.
 
 1. Use the below button to open the **Create Codespace** page in a new tab. Use the default configuration.
-
-   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/{{full_repo_name}}?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/{{full_repo_name}}?quickstart=1)
 
 1. Confirm the **Repository** field is your copy of the exercise, not the original, then click the green **Create Codespace** button.
 
    - ✅ Your copy: `/{{full_repo_name}}`
-   - ❌ Original: `/skills/getting-started-with-github-copilot`
+   - ❌ Original: `/nosportugal/flai-workshop-github-copilot-100`
 
 1. Wait a moment for Visual Studio Code to load in your browser.
 
