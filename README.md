@@ -1,10 +1,15 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/nos-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/nos-logo-light.png">
-    <img alt="NOS Logo" src="images/nos-logo-light.png" width="200">
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/flai-logo-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="images/flai-logo-light.svg?v=2" />
+    <img width="180" alt="flAI Logo" src="images/flai-logo-dark.svg?v=2" />
+</picture>
+  <br/>
+  <br/>
+  <a href="https://flai.gh.nos.pt/">https://flai.gh.nos.pt</a>
 </p>
+
+---
 
 # Getting Started with GitHub Copilot
 
@@ -41,7 +46,7 @@ When copying the exercise, we recommend the following settings:
 - For owner, choose your personal account or an organization to host the repository.
 
 - We recommend creating a public repository, since private repositories will use Actions minutes.
-   
+
 If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
 
 - Check to see if a job is running. Sometimes it simply takes a bit longer.
