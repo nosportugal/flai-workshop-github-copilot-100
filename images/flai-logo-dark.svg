@@ -1,0 +1,12 @@
+<svg viewBox="11 24 82 72" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ear -->
+  <path d="M32 38 C 22 38, 15 45, 15 58 C 15 72, 28 78, 38 72" />
+  <!-- Head Top -->
+  <path d="M32 38 C 40 28, 60 28, 70 40" />
+  <!-- Trunk -->
+  <path d="M70 40 C 72 55, 68 75, 68 82 C 68 92, 85 92, 90 80" />
+  <!-- Tusk -->
+  <path d="M58 80 Q 75 90 85 75" />
+  <!-- Eye -->
+  <circle cx="55" cy="48" r="2.5" fill="#ffffff" stroke="none"/>
+</svg>
