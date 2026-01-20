@@ -1,3 +1,14 @@
+## Step 0: Setup your GitHub Codespace
+
+### :hourglass: Activity: Start your GitHub Codespace
+
+Right-click the below button to open the **Create Codespace** page in a new tab.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/{{full_repo_name}}?quickstart=1)
+
+> [!NOTE]
+> The Codespace will take a few minutes to provision. While it's setting up, continue reading below to learn about the application we'll be building!
+
 ## Step 1: Hello Copilot
 
 Welcome to your **"Getting Started with GitHub Copilot"** exercise! :robot:
@@ -33,10 +44,7 @@ For today's coding though, we will practice with VS Code in a pre-configured dev
 
 ### :keyboard: Activity: Get a project intro from Copilot Chat
 
-Let's start up our development environment, use copilot to learn a bit about the project, and then give it a test run.
-
-1. Use the below button to open the **Create Codespace** page in a new tab. Use the default configuration.
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/{{full_repo_name}}?quickstart=1)
+1. Your Codespace should now be ready. If not, go back to the tab where you opened it and wait for Visual Studio Code to load.
 
 1. Confirm the **Repository** field is your copy of the exercise, not the original, then click the green **Create Codespace** button.
 
@@ -58,7 +66,6 @@ Let's start up our development environment, use copilot to learn a bit about the
    > 🪧 **Note:** If this is your first time using GitHub Copilot, you will need to accept the usage terms to continue.
 
 1. Make sure you are in **Ask Mode** for our first interaction
-
 
    <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="https://github.com/user-attachments/assets/fb1d7cac-2d39-4199-b5d9-0f3dfcfb3bcd" />
 1. Enter the below prompt to ask Copilot to introduce you to the project.
