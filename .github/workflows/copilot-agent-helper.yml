@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - "copilot/**"
+      - "claude/**"
+      - "codex/**"
   pull_request:
     types: [ready_for_review, opened]
   issue_comment:
