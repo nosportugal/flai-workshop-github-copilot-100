@@ -1,0 +1,23 @@
+name: Copilot Agent Helper
+
+on:
+  push:
+    branches:
+      - "copilot/**"
+  pull_request:
+    types: [ready_for_review, opened]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  copilot:
+    uses: >-
+      nosportugal/github-actions/.github/workflows/copilot-agent-helper.yml@main
+    with:
+      auto_hide_previous_comments: true
+      acknowledgment_reaction: "eyes"
+    secrets: inherit
