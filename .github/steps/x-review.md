@@ -9,8 +9,7 @@ Here's a recap of the GitHub Copilot features you learned:
 - **Ask Mode**: Used @workspace to explore and understand your codebase
 - **Inline suggestions**: Completed code with Tab acceptance
 - **Inline Chat**: Generated code and data with Ctrl/Cmd + I
-- **Edit Mode**: Made multi-file changes with targeted prompts
-- **Agent Mode**: Built features and tests autonomously
+- **Agent Mode**: Made multi-file changes and built features autonomously
 - **GitHub integration**: Generated commit messages, PR summaries, and code reviews
 
 ### What's next?
