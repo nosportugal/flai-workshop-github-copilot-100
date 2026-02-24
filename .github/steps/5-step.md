@@ -29,11 +29,11 @@ Both **Copilot pull request summaries** and **Copilot code review** have limited
 
 1. (Optional) In the PR description toolbar click the **Copilot** icon and **Summary** action. After a moment, Copilot will add a description based on your changes. :memo:
 
-   <img alt="Copilot summarize button" width="450px" src="../images/copilot-summarize-button.png">
+   <img alt="Copilot summarize button" width="450px" src="https://raw.githubusercontent.com/{{full_repo_name}}/main/.github/images/copilot-summarize-button.png">
 
 1. (Optional) In the right side information panel at the top, locate the **Reviewers** section and click the **Request** button next to a **Copilot icon**. Wait a moment for Copilot to add a review comment to your pull request!
 
-   <img alt="Copilot review button" width="300px" src="../images/copilot-review-button.png">
+   <img alt="Copilot review button" width="300px" src="https://raw.githubusercontent.com/{{full_repo_name}}/main/.github/images/copilot-review-button.png">
 
    > 💡 **Tip:** Notice a log entry that Copilot was requested for a review.
 
