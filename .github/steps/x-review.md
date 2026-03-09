@@ -27,9 +27,9 @@ Here's a recap of the GitHub Copilot features you learned:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{full_repo_name}}/main/images/flai-logo-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{{full_repo_name}}/main/images/flai-logo-light.svg?v=2" />
-    <img width="180" alt="flAI Logo" src="https://raw.githubusercontent.com/{{full_repo_name}}/main/images/flai-logo-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/images/flai-logo-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/images/flai-logo-light.svg?v=2" />
+    <img width="180" alt="flAI Logo" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/images/flai-logo-dark.svg?v=2" />
   </picture>
 </p>
 

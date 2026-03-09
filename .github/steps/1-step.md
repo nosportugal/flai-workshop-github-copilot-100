@@ -15,11 +15,11 @@ Welcome to your **"Getting Started with GitHub Copilot"** exercise! :robot:
 
 In this exercise, you will be using different GitHub Copilot features to work on a website that allows students of Mergington High School to sign up for extracurricular activities. 🎻 ⚽️ ♟️
 
-<img width="600" alt="screenshot of Mergington High School WebApp" src="https://raw.githubusercontent.com/{{full_repo_name}}/main/.github/images/mergington-high-school-webapp.png" />
+<img width="600" alt="screenshot of Mergington High School WebApp" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/mergington-high-school-webapp.png" />
 
 ### 📖 Theory: Getting to know GitHub Copilot
 
-<img width="150" align="right" alt="copilot logo" src="https://raw.githubusercontent.com/{{full_repo_name}}/main/.github/images/copilot-logo.png" />
+<img width="150" align="right" alt="copilot logo" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/copilot-logo.png" />
 
 GitHub Copilot is an AI coding assistant that helps you write code faster and with less effort, allowing you to focus more energy on problem solving and collaboration.
 
@@ -54,19 +54,19 @@ For today's coding though, we will practice with VS Code in a pre-configured dev
 
 1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot` and `Python` extensions are installed and enabled.
 
-   <img width="350" alt="copilot extension for VS Code" src="https://raw.githubusercontent.com/{{full_repo_name}}/main/.github/images/copilot-extension-vscode.png" />
+   <img width="350" alt="copilot extension for VS Code" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/copilot-extension-vscode.png" />
 
-   <img width="350" alt="python extension for VS Code" src="https://raw.githubusercontent.com/{{full_repo_name}}/main/.github/images/python-extension-vscode.png" />
+   <img width="350" alt="python extension for VS Code" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/python-extension-vscode.png" />
 
 1. At the top of VS Code, locate and click the **Toggle Chat icon** to open a Copilot Chat side panel.
 
-   <img width="150" alt="image" src="https://raw.githubusercontent.com/{{full_repo_name}}/main/.github/images/toggle-chat-icon.png" />
+   <img width="150" alt="image" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/toggle-chat-icon.png" />
 
    > 🪧 **Note:** If this is your first time using GitHub Copilot, you will need to accept the usage terms to continue.
 
 1. Make sure you are in **Ask Mode** for our first interaction
 
-   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="https://raw.githubusercontent.com/{{full_repo_name}}/main/.github/images/ask-mode-selection.png" />
+   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/ask-mode-selection.png" />
 
 1. Enter the below prompt to ask Copilot to introduce you to the project.
 
@@ -88,13 +88,13 @@ For today's coding though, we will practice with VS Code in a pre-configured dev
 
 1. Now that we know a bit more about the project, let's actually try running it! In the left sidebar, select the `Run and Debug` tab and then press the **Start Debugging** icon.
 
-   <img width="300" alt="image" src="https://raw.githubusercontent.com/{{full_repo_name}}/main/.github/images/run-and-debug-tab.png" />
+   <img width="300" alt="image" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/run-and-debug-tab.png" />
 
 1. We want to see our webpage running in a browser, so let's find the url and port. If it isn't visible, expand the lower panel and select the **Ports** tab.
 
 1. In the list, find port `8000` and the related link. Hover over the link and select the **Open in browser** icon.
 
-   ![image](https://raw.githubusercontent.com/{{full_repo_name}}/main/.github/images/open-in-browser-icon.png)
+   ![image](https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/open-in-browser-icon.png)
 
 ### :keyboard: Activity: Use Copilot to help remember a terminal command 🙋
 
