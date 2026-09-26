@@ -1,20 +1,19 @@
-Copyright (c) GitHub and others
+© 2026 NOS Group and its affiliated companies, including NOS Inovação, S.A. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+For the purposes of this notice, “NOS Group” means NOS, SGPS, S.A., its subsidiaries, affiliated companies, directly or indirectly controlled entities, and any other entities integrated into the NOS corporate group from time to time.
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+This repository may contain proprietary software owned by or assigned to one or more companies within the NOS Group, including software developed by NOS Inovação, S.A. and/or other NOS Group entities, as well as third-party proprietary and open-source components, each subject to its respective licensing terms.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Unless expressly authorized in writing by the relevant NOS Group company, any proprietary code owned by or assigned to a company within the NOS Group is confidential and intended solely for internal use within the NOS Group, including by its employees, officers, contractors, consultants, service providers and other third parties, provided that they are expressly authorized for such purpose.
+
+Any unauthorized external use, access, disclosure, copying, distribution, publication, reproduction, modification, reverse engineering, sublicensing, commercialization, or other exploitation of such proprietary code, in whole or in part, is strictly prohibited and is subject to enforcement to the fullest extent permitted by applicable law.
+
+Access to and use of this repository are subject to applicable internal policies, confidentiality obligations, information security requirements, and any contractual or legal restrictions applicable to the relevant users or entities.
+
+Nothing in this notice shall be construed as granting any rights or licenses, whether express, implied, by estoppel, or otherwise, in or to any intellectual property rights of any NOS Group company, except as expressly authorized in writing by the relevant rights holder.
+
+If you have accessed this repository or its contents without authorization, or become aware of any unauthorized access by a third party, you should immediately cease access, delete any copies in your possession or control, and inform the NOS Group at <github.operations@nos.pt> without undue delay.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AVAILABILITY, SECURITY, OR ERROR-FREE OPERATION. WITHOUT LIMITING THE FOREGOING, NO WARRANTY IS GIVEN THAT THE SOFTWARE WILL BE FREE FROM BUGS, DEFECTS, VULNERABILITIES, INTERRUPTIONS, OR MALICIOUS COMPONENTS, OR THAT ANY SUCH ISSUES WILL BE CORRECTED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ANY NOS GROUP COMPANY, OR ANY OF ITS DIRECTORS, EMPLOYEES, CONTRACTORS, OR REPRESENTATIVES, BE LIABLE FOR ANY CLAIM, DAMAGES, LOSSES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF, ACCESS TO, OR OTHER DEALINGS IN THE SOFTWARE, WHETHER AUTHORIZED OR UNAUTHORIZED.”
