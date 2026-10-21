@@ -6,15 +6,15 @@
 
 **Getting Started with GitHub Copilot**
 
-<p align="center">
+A [GitHub Skills](https://github.com/skills/getting-started-with-github-copilot) exercise used in the NOS flAI workshops: learners use Copilot to improve the Mergington High School activities website in `src/`.
 
-Owner team: **flai-contributores** (org: nosportugal).
+Owner team: **flai-contributors** (org: nosportugal).
 
 ## Tech Stack
 
-- Languages: Python
+- Languages: Python (FastAPI backend), JavaScript/HTML/CSS (static frontend)
 - Package manager(s): pip (requirements.txt)
-- CI: GitHub Actions
+- CI: none; GitHub Actions only runs the exercise step workflows
 
 ## Local Development
 
@@ -25,7 +25,10 @@ Common commands you should know before changing this codebase:
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-# Run tests
+# Run the app on port 8000 (or use the "Launch Mergington WebApp" debug config)
+uvicorn src.app:app --reload
+
+# Run tests (pytest and tests/ are only added by the learner in step 4)
 pytest
 ```
 
@@ -38,13 +41,12 @@ pytest
 - Default branch is `main`.
 - Use [Conventional Commits](https://www.conventionalcommits.org/) for messages: `feat:`, `fix:`, `chore:`, `docs:`, `refactor:`, `test:`.
 - Open a Pull Request for review; do not push to the default branch directly when possible.
-- Run linters/formatters before committing.
 - Keep PRs small and focused.
 - Follow PEP 8. Type hints encouraged on public functions.
 
 ## CI/CD
 
-- CI is configured under `.github/workflows/`.
+- `.github/workflows/` holds the exercise workflows (`0-start-exercise.yml`, then `1-step.yml` to `5-step.yml`), which check each step's work and post the next `.github/steps/*.md` file as an issue comment. There is no build or test CI.
 - Make sure your changes don't break existing workflow files.
 
 ## Security & Secrets
@@ -58,11 +60,11 @@ pytest
 
 When working in this repository, agents should:
 
-- Read the README and any docs under `docs/` before making non-trivial changes.
+- Read `README.md` and `src/README.md` before making non-trivial changes.
 - Prefer minimal, surgical edits over rewrites.
 - Match the existing code style — do not reformat unrelated code.
-- After changes, run the build/test/lint commands listed above and report the result.
-- Open a draft PR for any change touching more than one module or > 100 LOC, and let a human review.
+- After changes, run the commands listed above and report the result.
+- Let a human review every change. In the exercise, the learner opens the pull request from `accelerate-with-copilot` to `main` in step 5.
 - Do not invent commands or dependencies — verify they exist in the repo before suggesting them.
 - If unsure about business logic, **ask** rather than guess.
 
