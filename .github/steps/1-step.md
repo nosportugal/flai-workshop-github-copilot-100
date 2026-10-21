@@ -2,9 +2,13 @@
 
 ### :hourglass: Activity: Start your GitHub Codespace
 
-Right-click the below button to open the **Create Codespace** page in a new tab.
+1. Right-click the below button to open the **Create Codespace** page in a new tab.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/{{full_repo_name}}?quickstart=1)
+   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/{{full_repo_name}}?quickstart=1)
+
+1. Confirm the **Repository** field is your copy of the exercise, not the original, then click the green **Create Codespace** button.
+   - ✅ Your copy: `/{{full_repo_name}}`
+   - ❌ Original: `/nosportugal/flai-workshop-github-copilot-100`
 
 > [!NOTE]
 > The Codespace will take a few minutes to provision. While it's setting up, continue reading below to learn about the application we'll be building!
@@ -44,13 +48,7 @@ For today's coding though, we will practice with VS Code in a pre-configured dev
 
 ### :keyboard: Activity: Get a project intro from Copilot Chat
 
-1. Your Codespace should now be ready. If not, go back to the tab where you opened it and wait for Visual Studio Code to load.
-
-1. Confirm the **Repository** field is your copy of the exercise, not the original, then click the green **Create Codespace** button.
-   - ✅ Your copy: `/{{full_repo_name}}`
-   - ❌ Original: `/nosportugal/flai-workshop-github-copilot-100`
-
-1. Wait a moment for Visual Studio Code to load in your browser.
+1. Switch to the tab where you created your Codespace. It should now be ready. If not, wait a moment for Visual Studio Code to load in your browser.
 1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot Chat` and `Python` extensions are installed and enabled.
 
    <img width="350" alt="copilot extension for VS Code" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/copilot-extension-vscode.png" />
