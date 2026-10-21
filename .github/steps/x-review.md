@@ -41,10 +41,10 @@ This workshop is part of the **flAI** programme — NOS's framework for responsi
 
 Here are some recommended next steps:
 
-- 📖 **[Get Started with the AI Dev CoE Toolkit](https://github.com/nosportugal/flai-ai-dev-coe-toolkit)** — Learning paths, ready-to-use prompts, security protocols, and quality standards
-- 🎓 **[Training Hub](https://github.com/nosportugal/flai-ai-dev-coe-toolkit/blob/main/training/README.md)** — Quick-starts & workshops for all experience levels
-- 🧠 **[Learn AI Concepts](https://github.com/nosportugal/flai-ai-dev-coe-toolkit/blob/main/docs/guides/README.md)** — Prompting techniques, models, RAG, and AI agents
-- 🔖 **[Prompt Index](https://github.com/nosportugal/flai-ai-dev-coe-toolkit/blob/main/prompts/PROMPT_INDEX.md)** — 11 ready-to-use prompts for specs, design, tasks, and docs
-- 💬 **[Join the Discussion](https://github.com/nosportugal/flai-ai-dev-coe-toolkit/discussions)** — Ask questions, share ideas, and show what you've built
+- 📖 **[Get Started with the AI Dev CoE Toolkit](https://github.com/nosportugal/flai)** — Learning paths, ready-to-use prompts, security protocols, and quality standards
+- 🎓 **[Training Hub](https://github.com/nosportugal/flai/blob/main/training/README.md)** — Quick-starts & workshops for all experience levels
+- 🧠 **[Learn AI Concepts](https://github.com/nosportugal/flai/blob/main/docs/guides/README.md)** — Prompting techniques, models, RAG, and AI agents
+- 🔖 **[Prompt Index](https://github.com/nosportugal/flai/blob/main/prompts/PROMPT_INDEX.md)** — 11 ready-to-use prompts for specs, design, tasks, and docs
+- 💬 **[Join the Discussion](https://github.com/nosportugal/flai/discussions)** — Ask questions, share ideas, and show what you've built
 
 > _"Small steps, big learning"_ — Keep experimenting, keep building! 💪
