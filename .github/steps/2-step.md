@@ -29,7 +29,7 @@ In short, you can think of Copilot like a very specialized coworker. To be effec
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > @workspace Students are able to register twice for an activity.
+   > #codebase Students are able to register twice for an activity.
    > Where could this bug be coming from?
    > ```
 

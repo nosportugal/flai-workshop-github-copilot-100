@@ -6,9 +6,10 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "GitHub.copilot",
         "ms-python.python",
-        "ms-python.debugpy"
+        "ms-python.debugpy",
+        "GitHub.copilot-chat",
+        "GitHub.copilot"
       ]
     }
   }

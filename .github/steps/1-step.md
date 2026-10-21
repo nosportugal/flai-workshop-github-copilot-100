@@ -51,18 +51,31 @@ For today's coding though, we will practice with VS Code in a pre-configured dev
    - ❌ Original: `/nosportugal/flai-workshop-github-copilot-100`
 
 1. Wait a moment for Visual Studio Code to load in your browser.
-
-1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot` and `Python` extensions are installed and enabled.
+1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot Chat` and `Python` extensions are installed and enabled.
 
    <img width="350" alt="copilot extension for VS Code" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/copilot-extension-vscode.png" />
 
    <img width="350" alt="python extension for VS Code" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/python-extension-vscode.png" />
 
+   <details>
+   <summary>🔎 GitHub Copilot Chat extension missing ❓</summary>
+
+   If the GitHub Copilot Chat extension is missing for you, ensure you are signed in to GitHub Copilot. Find the **GitHub Copilot** icon on the bottom right of the VS Code window.
+
+   | Status bar icon                                                                                                         | Sign in required                                                                                         | Copilot active                                                                                                  |
+   | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+   | <img width="300" alt="Copilot menu prompting the user to use AI features" src="../images/copilot-sign-in-button.png" /> | <img width="300" alt="Copilot chat sign in button" src="../images/copilot-sign-in-button-clicked.png" /> | <img width="300" alt="Copilot menu showing inline suggestions enabled" src="../images/copilot-signed-in.png" /> |
+
+   You should be good to go at this point, even if the extension is still not visible in the extensions tab.
+
+   </details>
+
 1. At the top of VS Code, locate and click the **Toggle Chat icon** to open a Copilot Chat side panel.
 
    <img width="150" alt="image" src="https://raw.githubusercontent.com/nosportugal/flai-workshop-github-copilot-100/main/.github/images/toggle-chat-icon.png" />
 
-   > 🪧 **Note:** If this is your first time using GitHub Copilot, you will need to accept the usage terms to continue.
+   > 🪧 **Note:** If this is your first time using GitHub Copilot, you may need to accept the usage terms to continue.
+
 
 1. Make sure you are in **Ask Mode** for our first interaction
 
@@ -73,18 +86,11 @@ For today's coding though, we will practice with VS Code in a pre-configured dev
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > @workspace Please briefly explain the structure of this project.
+   > Please briefly explain the structure of this project.
    > What should I do to run it?
    > ```
 
    > 🪧 **Note:** It is not necessary to follow Copilot's recommended instructions. We have already prepared the environment for you.
-
-   <details>
-   <summary>What is @workspace?</summary>
-
-   Great question! This is a specialized [chat participant](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/github-copilot-chat-cheat-sheet?tool=vscode#chat-participants) that will explore the project repository and try to include relevant additional context.
-
-   </details>
 
 1. Now that we know a bit more about the project, let's actually try running it! In the left sidebar, select the `Run and Debug` tab and then press the **Start Debugging** icon.
 
